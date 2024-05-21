@@ -2,7 +2,7 @@
 
 You've found my profile，Nice to meet you! 👋
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dezehn@outlook.com)](mailto:GuoKeNo@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:GuoKeNo@foxmail.com)](mailto:GuoKeNo@foxmail.com)
 
 ## 🧐 About
 
@@ -20,6 +20,6 @@ You've found my profile，Nice to meet you! 👋
     
 𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
-Feel free to [reach out to me](mailto:dezehn@outlook.com) for help, collabs or side hustles
+Feel free to [reach out to me](mailto:GuoKeNo@foxmail.com) for help, collabs or side hustles
 
-✨🚀✨👨🏻‍🚀✨🖖✨
+✨✨✨
