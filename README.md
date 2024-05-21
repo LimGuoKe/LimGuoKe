@@ -2,7 +2,7 @@
 
 You've found my profile，Nice to meet you! 👋
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dezehn@outlook.com)](mailto:dezehn@outlook.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dezehn@outlook.com)](mailto:GuoKeNo@foxmail.com)
 
 ## 🧐 About
 
