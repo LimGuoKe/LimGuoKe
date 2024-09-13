@@ -2,12 +2,12 @@
 
 You've found my profile，Nice to meet you! 👋
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:GuoKeNo@foxmail.com)](mailto:GuoKeNo@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Mail@limgk.com)](mailto:Mail@limgk.com)
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://GuoKeNo.com
-- 📫 How to reach me: GuoKeNo@foxmail.com
+- 👨‍💻 My blog: http://LimGK.com
+- 📫 How to reach me: Mail@limgk.com
 - 🌱 Languages and Tools: 
 
     <div>
