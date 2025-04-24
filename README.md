@@ -6,7 +6,7 @@ You've found my profile，Nice to meet you! 👋
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://www.LimGK.com
+- 👨‍💻 My blog: http://www.limgk.com
 - 📫 How to reach me: Mail@limgk.com
 - 🌱 Languages and Tools: 
 
